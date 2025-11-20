@@ -1,3 +1,8 @@
+# Quizzical
+
+<img width="707" height="874" alt="image" src="https://github.com/user-attachments/assets/ee2cebfd-13ed-4d7f-86e2-c2be16aea464" />
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
